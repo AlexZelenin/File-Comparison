@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>customs/CButton.qml</file>
+        <file>modules_ui/MainView.qml</file>
+        <file>customs/CToolButton.qml</file>
+        <file>customs/CTextField.qml</file>
+        <file>modules_ui/FolderSelectorView.qml</file>
+        <file>modules_ui/FilesView.qml</file>
+        <file>modules_ui/FileItemDelegate.qml</file>
+    </qresource>
+</RCC>
